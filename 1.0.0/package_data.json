@@ -1,0 +1,44 @@
+{
+    "name": "-teaswap-uniswap-sdk",
+    "version": "1.0.0",
+    "description": "swap project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "-teaswap-uniswap-sdk@1.0.0",
+    "gitHead": "856ffa3ddece3b6a5cf6192fb1472cd4fecde1f0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-xhzSjsElr9pTpbPMtr+R02uPe2jOFg9Q4THwTZEiHBJu1CsCBbcuVByhUlG0og0BKxMAdpVUMUqxltiA0cYMOA==",
+        "shasum": "633e04b6c8d6999e75aa0cb411094910ec72c861",
+        "tarball": "https://registry.npmjs.org/-teaswap-uniswap-sdk/-/-teaswap-uniswap-sdk-1.0.0.tgz",
+        "fileCount": 17,
+        "unpackedSize": 213549,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIBK+fWfaegAMXZ6x5waWSTv/KMU+9dRE4XLbYgU6+nWvAiEAsK/nDMasbqN7K2dQJAExgiUKfQBrQjJp0Y+GIdjJ0ck="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "cebong123",
+        "email": "nurifai469@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "cebong123",
+            "email": "nurifai469@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-teaswap-uniswap-sdk_1.0.0_1709844432777_0.853793177169428"
+    },
+    "_hasShrinkwrap": false
+}
