@@ -1,0 +1,51 @@
+{
+    "name": "--mrk_todo_list",
+    "version": "1.0.1",
+    "main": "maida.js",
+    "type": "module",
+    "types": "inquirer",
+    "bin": {
+        "--mrk_todo_list": "todo_list.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.11.20"
+    },
+    "dependencies": {
+        "inquirer": "^9.2.17",
+        "undici-types": "^5.26.5"
+    },
+    "description": "",
+    "_id": "--mrk_todo_list@1.0.1",
+    "_nodeVersion": "21.6.1",
+    "_npmVersion": "8.5.3",
+    "dist": {
+        "integrity": "sha512-8nUnTBWW43nxYfdNs4SY5CEXak2PDqYdMy5S4HbeEFAGYWFnQTd/2i59rlMyY+PAYzLL4k57iLdWU9g+IsYlxw==",
+        "shasum": "6fd7fc1200afbaba69e22e199086cb1789a80258",
+        "tarball": "https://registry.npmjs.org/--mrk_todo_list/-/--mrk_todo_list-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14623,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCICgT5uLniIEGKdgWQ408j3qnWZTOIYFlh8O9QDE7xUYlAiEArqq4ndTYz5iSDCPCZ5y9DVgAyPpb9/Lf1Wwbn+ykj5k="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "maidarehmankhan",
+        "email": "maidarehman4614@gmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/--mrk_todo_list_1.0.1_1719831121948_0.31552739651134964"
+    },
+    "_hasShrinkwrap": false
+}

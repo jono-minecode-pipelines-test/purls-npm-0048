@@ -1,0 +1,43 @@
+{
+    "name": "--wtfnpmexmple--",
+    "version": "0.0.0",
+    "description": "",
+    "keywords": [],
+    "author": {
+        "name": "Hacksore"
+    },
+    "license": "MIT",
+    "gitHead": "12ddb6e60281a5f481619ce297e91d4013f82298",
+    "_id": "--wtfnpmexmple--@0.0.0",
+    "_nodeVersion": "18.17.1",
+    "_npmVersion": "9.6.7",
+    "dist": {
+        "integrity": "sha512-rKwvx28c3FxG70U6FqJmX3KgaGW9LPQN5HhxPJ/hGQScIEc95ct0MPfTIZQAOGZWTmQ822Q/vm8qiSSSvqF0JA==",
+        "shasum": "d3be9690ffdaf3626196f3aa3e05480f94932765",
+        "tarball": "https://registry.npmjs.org/--wtfnpmexmple--/-/--wtfnpmexmple---0.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 148,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDWxnnMhzGcS6/X/ShR1nEb7+Yq3AL2NQ3GJi2NUOwA3AIgKT9KdaR3NOoNT7cHol9zqxp2TCcdYzIM4Uq0VqR/Xxs="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "hacksore",
+        "email": "seanboult@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hacksore",
+            "email": "seanboult@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/--wtfnpmexmple--_0.0.0_1703107396541_0.21335062153848017"
+    },
+    "_hasShrinkwrap": false
+}
